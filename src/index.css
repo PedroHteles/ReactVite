@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: 'none';
+}
+
+body,html{
+    background-color: #d0cccc;
+    height: 100%;
+    width: 100%;
+}
+
+#root{
+    height: 100%;
+}
+
+
+
+.navbar{
+    background: #009688;
+    color: #fff;
+    padding: 1rem;
+}
